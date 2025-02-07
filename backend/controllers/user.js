@@ -1,4 +1,3 @@
-// Import modules using ES6 module syntax
 import { User } from '../models/userModel.js';
 import bcrypt from 'bcrypt';
 import { sendCookie } from '../utils/features.js';
