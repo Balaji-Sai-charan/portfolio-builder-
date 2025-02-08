@@ -112,7 +112,7 @@ A dynamic **Portfolio Builder** web application where users can enter their deta
 ✅ **MongoDB Storage** (User data stored & retrieved dynamically)  
 ✅ **Fully Responsive UI**  
 ✅ **Multi-Template Support** (Select from different templates)  
-✅ **Deployment Ready** (Netlify for frontend, Render for backend)
+
 
 ---
 
