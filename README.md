@@ -150,3 +150,18 @@ cd ../FrontEnd
 npm install  # Install dependencies
 
 
+📌 API Endpoints
+🔹 User Authentication
+Method	Endpoint	Description
+POST	/api/users/register	Register new user
+POST	/api/users/login	Login user
+GET	/api/users/:userId	Get user portfolio details
+🔹 Portfolio Management
+Method	Endpoint	Description
+PUT	/api/users/:userId	Update user portfolio
+GET	/api/users/:userId	Fetch user details
+🎭 How It Works
+Register/Login using email & password
+Fill Out Form (Personal Info, Experience, Projects, etc.)
+Preview & Select Template
+Generate & Share Portfolio via unique URL
