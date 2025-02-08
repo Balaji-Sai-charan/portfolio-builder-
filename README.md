@@ -5,8 +5,6 @@ A dynamic **Portfolio Builder** web application where users can enter their deta
 ---
 
 ## 📂 Project Structure
-
-Directory structure:
 └── balaji-sai-charan-portfolio-builder-/
 ├── README.md
 ├── FrontEnd/
